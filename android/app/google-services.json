@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306764272479",
+    "project_id": "the-founders-e5560",
+    "storage_bucket": "the-founders-e5560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306764272479:android:637dddf89cf0ae44341cea",
+        "android_client_info": {
+          "package_name": "com.example.the_founders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306764272479-o3mgj3a95qn10ec3cctktart3e5r6ifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4OGlnr7Fy8IBaeQH9br4MO-L_l33CNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306764272479-o3mgj3a95qn10ec3cctktart3e5r6ifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
